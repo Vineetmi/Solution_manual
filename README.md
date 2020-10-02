@@ -1,2 +1,0 @@
-# cp-test
-programming test
